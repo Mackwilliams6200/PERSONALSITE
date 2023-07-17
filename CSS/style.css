@@ -1,0 +1,28 @@
+
+/* REPAIR COMPANY CSS*/
+
+
+body{
+background-image: url("../IMAGES/bsod.JPG"); 
+background-size: 160%;
+background-repeat: no-repeat;
+
+
+}
+
+.h1{
+    font-size: 30px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: solid;
+    color: aqua;
+
+}
+
+.h2{
+    font: size 25%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+

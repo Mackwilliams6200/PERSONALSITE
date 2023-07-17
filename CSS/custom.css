@@ -1,0 +1,19 @@
+
+body{
+    background-image: url('../IMAGES/skylight.jpg');
+    background-repeat:repeat;
+    font-size: 20px;
+    font-style: solid;
+    font-family: 'Satisfy' cursive;
+    color: rgb(4, 252, 252);
+
+}
+
+navigation{
+    color:white;
+
+
+}
+
+
+footer ::before{ content:'\00A9';}

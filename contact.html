@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="CSS/style.css" rel="stylesheet" type="text/css"/>
+      
+    <title>Contact</title>
+
+  
+<div class="h1">
+    <h2>My Contact Information</h2>
+    <br>
+<p>
+    <ul><strong>
+                  MacKenzie Williams
+        <p>EMAIL: wmackenzie94@yahoo.com</p>
+        <p>PHONE: 346-236-3073</p>
+    </strong></ul>
+
+</p>
+</div>
+<nav>
+    <div class="container">
+       <div class="navigation">
+        <ul>
+            <li class=home"><a href="index.html">Home</a></li>
+            <li><a href="resume index.html">Resume</a></li>
+            <li><a href="about.html">About</a></li>
+            
+        </ul>
+</div>
+</nav>
+
+</head>
+<body>
+    
+
+    <form action="contact.php" method="POST">
+        <label for="first_name">First Name</label><br>
+        <input type="text" name="First Name" required autofocus autocomplete="off"><br><br>
+        <label for="last_name">Last Name</label><br>
+        <input type="text" name="Last Name" required><br><br>
+        <label for="tel">Phone</label><br>
+        <input type="tel" name="Phone" required><br><br>
+        <label for="email">Email</label>
+        <input type="Email" name="Email" required><br>
+        <label for="subject">Subject</label><br>
+        <input type="text" name="Subject" required class="Subject" placeholder="Give explaination"><br><br> 
+        <label for="message">Message</label><br>
+        <textarea name="message" rows="20" cols="80" maxlength="100" wrap="hard" class="message"></textarea><br><br>
+        <input type="submit" name="submit" value="Send Message"><br>
+    </form>
+  
+</body>
+</html>

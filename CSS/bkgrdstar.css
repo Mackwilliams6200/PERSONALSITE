@@ -1,0 +1,28 @@
+
+body{
+
+    background-image: url('../IMAGES/webdev-bkgrd.jpg')
+    background-size: 45%;
+    background-repeat: no-repeat;
+    font-style: solid;
+    font-family: 'Satisfy' cursive;
+
+}
+
+
+/* NOTE: 
+ <p>Photo by
+<a href="https://unsplash.com/@chelseacgates?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chelsea Gates</a> on <a href="https://unsplash.com/photos/j4_3RkGO3ko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+  
+
+footer ::before{ content:'\00A9';}  
+
+
+
+.background{
+    background-image: url('./IMAGES/webdev-bkgrd.jpg');
+    background-image: linear-gradient(-20deg, 0,0,0 0.20 )30%
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+}*/

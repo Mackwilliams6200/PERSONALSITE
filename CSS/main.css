@@ -1,0 +1,33 @@
+
+/*RESUME INDEX - not linked to HTML*/
+
+
+.body {font-family:"Charm; sans-serif";
+    padding:0%;}
+
+.header {background-color:rgb(58, 8, 65); border-color:black ;
+    color:white; font-size:25px;
+    text-align:center;
+    padding: 35px;}
+
+    .paragraph{
+        margin:0;
+        padding: 0;
+        float:right;
+            background-color:rgb(245, 163, 211); 
+            color:rgb(50, 9, 68);
+            font-style:normal;
+            font-size:20px;}
+
+    .experience {
+        margin:0;
+        padding: 0;
+            background-color:rgb(245, 163, 211); 
+            color:rgb(50, 9, 68);
+            font-style:normal;
+            font-size:20px;}
+
+    .bio {background-color:rgb(245, 163, 211); border-color:rgb(42, 23, 126) ;
+    color:rgb(50, 9, 68);font-style: italic;font-size:20px;}
+
+.background {link rel="style.css" type="style.css" alt="main.css"}
